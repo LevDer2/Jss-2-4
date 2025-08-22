@@ -1,0 +1,12 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "I love programming!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": " console.log(\"Привіт! Це ваш перший проєкт на Node.js!\");"
+  },
+  "author": "Lev",
+  "license": "ISC"
+}
